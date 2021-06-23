@@ -1,4 +1,4 @@
-# lecture2
+# BasicThreeJS
 
 Examples for Lecture 2
 
